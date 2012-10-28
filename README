@@ -1,0 +1,5 @@
+This is a ruby script to parse through a report in Nexpose Simple XML format and output the port scan results in csv format. It takes in a file named 'report.xml' and outputs 'devices.csv'
+
+I don't claim to know ruby. So after screwing this up a lot trying to get it working, Mark from Stack Overflow helped me out greatly with it. So thanks to him.
+
+-vidkun
